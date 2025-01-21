@@ -5,6 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("hello world !! changed");
-        System.out.println("new branch");
+        System.out.println("new branch feature 1");
     }
 }
