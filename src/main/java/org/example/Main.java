@@ -4,7 +4,8 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello world !! changed");
-        System.out.println("new branch feature 1");
+        System.out.println("hello world");
+        System.out.println("main branch");
+
     }
 }
